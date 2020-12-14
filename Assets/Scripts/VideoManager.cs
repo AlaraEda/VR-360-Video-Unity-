@@ -23,16 +23,4 @@ public class VideoManager : MonoBehaviour
     public void Stop(){
         videoPlayer.Stop();
     }
-
-    //load url adress the video file.
-    public void  URLToVideo(string url){
-        videoPlayer.source = VideoSource.Url;
-        videoPlayer.url = url;
-        videoPlayer.Prepare();  //Load the video
-        videoPlayer.prepareCompleted += VideoPlayer_prepareCompleted;   //Play the video. 
-    }
-
-    private void VideoPlayer_prepareCompleted(VideoPlayer source){
-        Play();
-    }
 }
