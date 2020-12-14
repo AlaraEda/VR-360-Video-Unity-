@@ -26,12 +26,20 @@ I have made this little exercise to show that I know the bascis of implementing 
 and let my creativity flow while learning new skills. 
 <br>
 
+### What did I learn?
+By making this small project I learned how easy it is to get a (VR) video to work in Unity. 
+I also learned that I DON'T need to add a video-management script of my own, 
+since the "Video Player"-component already handles this itself. I didn't think making
+a project like this was going to be so easy and fast!
+Next up: learning how to add your own video and how to interact with it!
+
 ### Prototype
-https://www.figma.com/file/Z4zUAXb5fU53X7KnOdotX9/SyncVR?node-id=0%3A1
+https://www.figma.com/file/Z4zUAXb5fU53X7KnOdotX9/SyncVR?node-id=0%3A1 <br>
 
 ### Used Tutorials
 https://www.youtube.com/watch?v=RxlQnPcOoYc <br>
-https://www.youtube.com/watch?v=BlUldSuOgDc
+https://www.youtube.com/watch?v=BlUldSuOgDc <br>
+https://www.youtube.com/watch?v=aiISib1Mrs4 <br>
 
 ### Videos
 https://www.mettle.com/360vr-master-series-free-360-downloads-page/ <br>
