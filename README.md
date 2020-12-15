@@ -29,8 +29,8 @@ and let my creativity flow while learning new skills.
 ### What did I learn?
 By making this small project I learned how easy it is to get a (VR) video to work in Unity. 
 I also learned that I DON'T need to add a video-management script of my own, 
-since the "Video Player"-component already handles this itself. I didn't think making
-a project like this was going to be so easy and fast!
+since the "Video Player"-component already handles this itself. 
+I thought making this assignment was going to take a lot of time, but it actually went very easy and fast!
 Next up: learning how to add your own video and how to interact with it!
 
 ### Prototype
@@ -48,5 +48,5 @@ https://vimeo.com/214401712 <br>
 
 ---
 
- **A whole new world**
-<br> _A new fantastic point of view!_
+                                          A whole new world 
+                                     A new fantastic point of view!
