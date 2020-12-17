@@ -26,6 +26,10 @@ I have made this little exercise to show that I know the bascis of implementing 
 and let my creativity flow while learning new skills. 
 <br>
 
+### How I did it
+I made this assignment in two ways. One way you can find in the master branch and the other you can find in the Android branch.
+If you use the files of the Master branch you can look around the scene by using only your mouse. If you decide to build it for your Android, I would recommend to use the Android Branch. The Android Branch has an extra script that makes you ebale to look around the world using GyroControls. 
+
 ### What did I learn?
 By making this small project I learned how easy it is to get a (VR) video to work in Unity. 
 I also learned that I DON'T need to add a video-management script of my own, 
@@ -40,6 +44,7 @@ https://www.figma.com/file/Z4zUAXb5fU53X7KnOdotX9/SyncVR?node-id=0%3A1 <br>
 https://www.youtube.com/watch?v=RxlQnPcOoYc <br>
 https://www.youtube.com/watch?v=BlUldSuOgDc <br>
 https://www.youtube.com/watch?v=aiISib1Mrs4 <br>
+https://www.youtube.com/watch?v=P5JxTfCAOXo&feature=youtu.be <br>
 
 ### Videos
 https://www.mettle.com/360vr-master-series-free-360-downloads-page/ <br>
