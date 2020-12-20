@@ -1,4 +1,4 @@
-# SyncVR Medical
+# VR 360 Video (Unity)
 
 ```
 I can show you the world.
